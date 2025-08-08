@@ -1,2 +1,2 @@
 # DEMO-CLASS
-This is my first Demo class
+This is my first Demo class.
